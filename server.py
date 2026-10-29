@@ -97,7 +97,7 @@ WIDGET_HTML = r"""<!doctype html>
     :root[data-effort="high"] { --effort-bg: var(--apricot); --effort-line: #bd7544; }
     :root[data-skin="microglow"] {
       --aqua: #5ebfe0;
-      --sage: #a4cdd1;
+      --sage: #9aafbd;
       --apricot: #0097d0;
       --almond: #a6b7dd;
       --cloud: #cbdbe1;
@@ -111,19 +111,19 @@ WIDGET_HTML = r"""<!doctype html>
       --band-1: #0097d0;
       --band-2: #5ebfe0;
       --band-3: #a6b7dd;
-      --band-4: #a4cdd1;
+      --band-4: #9aafbd;
       --band-5: #cbdbe1;
       --mark-line: #318cae;
       --mark-second: #a6b7dd;
-      --style-bg: #a4cdd1;
+      --style-bg: #9aafbd;
       --style-fg: #163a44;
       --style-line: #5aa7b6;
       --effort-bg: #a6b7dd;
       --effort-fg: #263653;
       --effort-line: #7289bc;
-      --skin-bg: #dceaf0;
-      --skin-fg: #24566b;
-      --skin-line: #77b8cc;
+      --skin-bg: #d9e3e;
+      --skin-fg: #4f6278;
+      --skin-line: #8196aa;
     }
     :root[data-skin="microglow"][data-style="relational"] {
       --style-bg: #a6b7dd;
@@ -131,7 +131,7 @@ WIDGET_HTML = r"""<!doctype html>
       --style-line: #7289bc;
     }
     :root[data-skin="microglow"][data-effort="low"] {
-      --effort-bg: #a4cdd1;
+      --effort-bg: #9aafbd;
       --effort-fg: #163a44;
       --effort-line: #5aa7b6;
     }
